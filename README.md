@@ -1,5 +1,5 @@
 # <div align="center" ><img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif">Hi 👋, I'm Harsh Raikwar<img width="90" height="40" src="https://github.com/akshatagrawal9874/akshatagrawal9874/blob/master/giphy%20(2).gif">
-<img src="developer.gif" class="center" alt="Harsh Raikwar - Computer Science Undergraduate"></div>
+</div>
 
 <h2 align="center">Currently I'm CSE Student at Shri Vaishnav Vidyapeeth Vishwavidyalaya</h3>
 
